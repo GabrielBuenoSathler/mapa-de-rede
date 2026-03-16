@@ -1,9 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
   <diagram name="Page-1" id="CZ1GbTqicdNK7pFB20jR">
-    <mxGraphModel dx="2364" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3214" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gA5cynMfu5xIlFfd_wW0-5" edge="1" parent="1" source="aRRd8pjGqW61elDGdCA9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aRRd8pjGqW61elDGdCA9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="V" vertex="1">
           <mxGeometry height="990" width="1720" y="-210" as="geometry" />
         </mxCell>
@@ -144,6 +149,14 @@
         </mxCell>
         <mxCell id="gA5cynMfu5xIlFfd_wW0-1" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.layer_2_remote_switch;" value="" vertex="1">
           <mxGeometry height="50" width="101" x="14.5" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="gA5cynMfu5xIlFfd_wW0-8" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-86;" value="" vertex="1">
+          <mxGeometry height="70" width="63.49" x="-150.00000000000003" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="gA5cynMfu5xIlFfd_wW0-9" edge="1" parent="1" source="gA5cynMfu5xIlFfd_wW0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="715" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
