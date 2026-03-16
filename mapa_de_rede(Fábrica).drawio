@@ -219,6 +219,9 @@
         <mxCell id="6E5DtB7VDtMjEOQrNI6P-13" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
           <mxGeometry height="70" width="58" x="1740.13" y="-200" as="geometry" />
         </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-14" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.printer;" value="" vertex="1">
+          <mxGeometry height="47" width="56" x="1741.13" y="-92" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
