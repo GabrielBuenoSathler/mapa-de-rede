@@ -139,6 +139,12 @@
             <mxPoint x="270" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gA5cynMfu5xIlFfd_wW0-2" edge="1" parent="1" source="gA5cynMfu5xIlFfd_wW0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aRRd8pjGqW61elDGdCA9-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA5cynMfu5xIlFfd_wW0-1" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.layer_2_remote_switch;" value="" vertex="1">
+          <mxGeometry height="50" width="101" x="14.5" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
