@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
   <diagram name="Page-1" id="CZ1GbTqicdNK7pFB20jR">
-    <mxGraphModel dx="2722" dy="2193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2629" dy="2193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,6 +200,18 @@
         </mxCell>
         <mxCell id="6E5DtB7VDtMjEOQrNI6P-5" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
           <mxGeometry height="70" width="78" x="1040" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="1052" x="498" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-7" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="58" x="618" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-8" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="58" x="1090" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-9" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.layer_2_remote_switch;" value="" vertex="1">
+          <mxGeometry height="50" width="101" x="1170" y="-270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
