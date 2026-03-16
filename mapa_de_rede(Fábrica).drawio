@@ -186,6 +186,21 @@
         <mxCell id="gA5cynMfu5xIlFfd_wW0-24" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" value="" vertex="1">
           <mxGeometry height="35" width="50" x="190" y="247.5" as="geometry" />
         </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-1" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="78" x="456" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-2" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="78" x="663" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-3" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="78" x="663" y="402.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-4" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="78" x="1030" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6E5DtB7VDtMjEOQrNI6P-5" parent="1" style="html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="78" x="1040" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
